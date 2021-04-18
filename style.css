@@ -1,0 +1,17 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+    background-color:#aa9922}
+
+.origamiImages {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img{
+    background-color: black;
+}
